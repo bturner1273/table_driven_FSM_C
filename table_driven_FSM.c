@@ -69,5 +69,4 @@ void main() {
 		input a = (int)rand() % 2 % 2 == 0 ? go : stop;
 		fsm(present_state, a);
 	}
-	system("pause");
 }
