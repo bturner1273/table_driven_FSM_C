@@ -11,7 +11,10 @@ typedef enum {
 	red_light, green_light
 } input;
 
+<<<<<<< HEAD
 //forward declarations so we can set func_ptr to them in transitions
+=======
+>>>>>>> 82dbdfa2a145f66e190412253a91dad4a5b70266
 void accelerate();
 void deccelerate();
 
